@@ -1,0 +1,18 @@
+2023-02-09 04:45:48 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FRUTA" not found (this database is empty); SQL statement:
+select f1_0.id,f1_0.cantidad,f1_0.nombre from fruta f1_0 [42104-214]
+2023-02-09 04:45:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FRUTA" not found (this database is empty); SQL statement:
+select f1_0.id,f1_0.cantidad,f1_0.nombre from fruta f1_0 [42104-214]
+2023-02-09 04:45:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FRUTA" not found (this database is empty); SQL statement:
+select f1_0.id,f1_0.cantidad,f1_0.nombre from fruta f1_0 [42104-214]
+2023-02-09 04:45:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FRUTA" not found (this database is empty); SQL statement:
+select f1_0.id,f1_0.cantidad,f1_0.nombre from fruta f1_0 [42104-214]
+2023-02-09 04:46:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FRUTA" not found (this database is empty); SQL statement:
+select f1_0.id,f1_0.cantidad,f1_0.nombre from fruta f1_0 [42104-214]
+2023-02-09 04:46:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FRUTA" not found (this database is empty); SQL statement:
+select f1_0.id,f1_0.cantidad,f1_0.nombre from fruta f1_0 [42104-214]
